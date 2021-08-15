@@ -100,8 +100,8 @@ class Terminal extends React.Component {
           <div className={ this.state.showContents ? 'terminal-profile' : 'hide' }>
             <h2>#&nbsp; Profile</h2>
             <p>
-              Hiroki Chida(25) / エンジニア, デザイナー<br />
-              経歴：ベンチャー企業 → フリーランスエンジニア → ベンチャー企業執行役員 → SIer
+              Hiroki Chida(26) / エンジニア, デザイナー<br />
+              経歴：教育ベンチャー → フリーランス → 開発リード(スタートアップ) → PL/開発リード(SIer)
             </p>
             <h2>#&nbsp; Skill</h2>
             <h3>##&nbsp; 技術(実務レベル)</h3>
@@ -109,12 +109,13 @@ class Terminal extends React.Component {
               *&nbsp; Ruby,&nbsp; Ruby on Rails<br />
               *&nbsp; Java,&nbsp; Spring Framework<br />
               *&nbsp; HTML,&nbsp; CSS,&nbsp; SCSS<br />
-              *&nbsp; JavaScript,&nbsp; React,&nbsp; Redux<br />
+              *&nbsp; JavaScript,&nbsp; React,&nbsp; Redux,&nbsp; Vue<br />
               *&nbsp; git<br />
               *&nbsp; MySQL<br />
               *&nbsp; Docker<br />
               *&nbsp; GCP, AWS<br />
               *&nbsp; Vim<br />
+              *&nbsp; DDD<br />
             </p>
             <h3>##&nbsp; 技術(趣味レベル)</h3>
             <p>
