@@ -10424,9 +10424,11 @@ var Terminal = function (_React$Component3) {
             _react2.default.createElement(
               'p',
               null,
-              'Hiroki Chida(26) / \u30A8\u30F3\u30B8\u30CB\u30A2, \u30C7\u30B6\u30A4\u30CA\u30FC',
+              'Hiroki Chida(26)',
               _react2.default.createElement('br', null),
-              '\u7D4C\u6B74\uFF1A\u6559\u80B2\u30D9\u30F3\u30C1\u30E3\u30FC \u2192 \u30D5\u30EA\u30FC\u30E9\u30F3\u30B9 \u2192 \u958B\u767A\u30EA\u30FC\u30C9(\u30B9\u30BF\u30FC\u30C8\u30A2\u30C3\u30D7) \u2192 PL/\u958B\u767A\u30EA\u30FC\u30C9(SIer)'
+              '\u30A8\u30F3\u30B8\u30CB\u30A2\u6B74\uFF1A7\u5E74\u76EE',
+              _react2.default.createElement('br', null),
+              '\u7D4C\u6B74\uFF1A\u6559\u80B2\u30D9\u30F3\u30C1\u30E3\u30FC\u30A8\u30F3\u30B8\u30CB\u30A2 \u2192 \u30D5\u30EA\u30FC\u30E9\u30F3\u30B9 \u2192 \u30B9\u30BF\u30FC\u30C8\u30A2\u30C3\u30D7\u958B\u767A\u30EA\u30FC\u30C9 \u2192 \u4E00\u90E8\u4E0A\u5834\u91D1\u878D\u30B7\u30B9\u30C6\u30E0PL\u30FB\u958B\u767A\u30EA\u30FC\u30C9'
             ),
             _react2.default.createElement(
               'h2',
