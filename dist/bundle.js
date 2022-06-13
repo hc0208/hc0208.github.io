@@ -10424,11 +10424,11 @@ var Terminal = function (_React$Component3) {
             _react2.default.createElement(
               'p',
               null,
-              'Hiroki Chida(26)',
+              'Hiroki Chida(27)',
               _react2.default.createElement('br', null),
               '\u30A8\u30F3\u30B8\u30CB\u30A2\u6B74\uFF1A7\u5E74\u76EE',
               _react2.default.createElement('br', null),
-              '\u7D4C\u6B74\uFF1A\u6559\u80B2\u30D9\u30F3\u30C1\u30E3\u30FC\u30A8\u30F3\u30B8\u30CB\u30A2 \u2192 \u30D5\u30EA\u30FC\u30E9\u30F3\u30B9 \u2192 \u30B9\u30BF\u30FC\u30C8\u30A2\u30C3\u30D7\u958B\u767A\u30EA\u30FC\u30C9 \u2192 \u4E00\u90E8\u4E0A\u5834\u91D1\u878D\u30B7\u30B9\u30C6\u30E0PL\u30FB\u958B\u767A\u30EA\u30FC\u30C9'
+              '\u7D4C\u6B74\uFF1A\u6559\u80B2\u30D9\u30F3\u30C1\u30E3\u30FC\u30A8\u30F3\u30B8\u30CB\u30A2 \u2192 \u30D5\u30EA\u30FC\u30E9\u30F3\u30B9 \u2192 \u30B9\u30BF\u30FC\u30C8\u30A2\u30C3\u30D7\u958B\u767A\u30EA\u30FC\u30C9 \u2192 \u4E00\u90E8\u4E0A\u5834\u91D1\u878D\u30B7\u30B9\u30C6\u30E0PL\u30FB\u958B\u767A\u30EA\u30FC\u30C9 \u2192 SaaS\u30D9\u30F3\u30C1\u30E3\u30FC'
             ),
             _react2.default.createElement(
               'h2',
@@ -10472,8 +10472,6 @@ var Terminal = function (_React$Component3) {
             _react2.default.createElement(
               'p',
               null,
-              '*\xA0 \u30A2\u30BB\u30F3\u30D6\u30E9',
-              _react2.default.createElement('br', null),
               '*\xA0 C, C++',
               _react2.default.createElement('br', null),
               '*\xA0 Python',
