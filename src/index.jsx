@@ -100,8 +100,8 @@ class Terminal extends React.Component {
           <div className={ this.state.showContents ? 'terminal-profile' : 'hide' }>
             <h2>#&nbsp; Profile</h2>
             <p>
-              Hiroki Chida(27)<br />
-              エンジニア歴：7年目<br />
+              Hiroki Chida(29)<br />
+              エンジニア歴：9年目<br />
               経歴：教育ベンチャーエンジニア → フリーランス → スタートアップ開発リード → 一部上場金融システムPL・開発リード → SaaSベンチャー
             </p>
             <h2>#&nbsp; Skill</h2>
